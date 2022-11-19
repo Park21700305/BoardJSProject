@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BoardJSProject:war2">
+    <output-path>$PROJECT_DIR$/out/artifacts/BoardJSProject_war2</output-path>
+    <root id="archive" name="p2_21700305_1.war">
+      <element id="artifact" artifact-name="BoardJSProject:war exploded" />
+    </root>
+  </artifact>
+</component>
